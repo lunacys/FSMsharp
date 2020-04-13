@@ -2,6 +2,20 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/lunacys/FSMsharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/lunacys/FSMsharp</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <Copyright>Copyright (c) 2016 Marco Mastropaolo</Copyright>
+    <Authors>Marco Mastropaolo, Grigory Alfyorov</Authors>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
