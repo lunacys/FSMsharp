@@ -9,6 +9,7 @@
     <RepositoryType>Git</RepositoryType>
     <Copyright>Copyright (c) 2016 Marco Mastropaolo</Copyright>
     <Authors>Marco Mastropaolo, Grigory Alfyorov</Authors>
+    <PackageId>FSMSharp.Core</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
