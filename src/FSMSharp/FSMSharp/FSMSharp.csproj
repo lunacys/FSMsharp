@@ -10,6 +10,10 @@
     <Copyright>Copyright (c) 2016 Marco Mastropaolo</Copyright>
     <Authors>Marco Mastropaolo, Grigory Alfyorov</Authors>
     <PackageId>FSMSharp.Core</PackageId>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <PackageReleaseNotes>Update to the latest version from the base repository.</PackageReleaseNotes>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
